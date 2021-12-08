@@ -12,6 +12,8 @@
 - config.setServerUrl("http://localhost:8089") 设置服务URL，用于生成请求示例
 - config.setOutPath(DocGlobalConstants.HTML_DOC_OUT_PATH); 设置输出路径，默认src/main/resources/static/doc
 
+## 访问
+    http://localhost:8080/doc/api.html
 
 ## 示例
     https://gitee.com/mantouchong/solonhat-smartdoc-test
